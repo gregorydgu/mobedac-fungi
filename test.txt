@@ -1,10 +1,8 @@
 this is a test file for update into github.
 greg
 
+change 3 lines
 
-
-try commit a existing file
-one more line
 
 
 this is another change
